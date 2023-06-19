@@ -8,8 +8,8 @@ Welcome to AncestryCode! We are a GitHub organization dedicated to developing so
 
 -     Develop high-quality software to test the security of applications and computer systems.
 -     Identify and analyze vulnerabilities in software and provide recommendations for their correction.
--   Provide expert cybersecurity advice to companies.
--    Contribute to the advancement of cybersecurity through research and development of new techniques and tools.
+-     Provide expert cybersecurity advice to companies.
+-     Contribute to the advancement of cybersecurity through research and development of new techniques and tools.
 
 ## Programming Languages
 
